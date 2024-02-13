@@ -1,6 +1,6 @@
 ## Dockerized CDO
 
-This Image provides the Climate Data Operators (CDO) command-line tool, within a Docker container. CDO is a collection of command-line operators for manipulating and analyzing climate and forecast data files.
+This Image provides the Climate Data Operators (CDO) v1.9.10 command-line tool, within a Docker container. CDO is a collection of command-line operators for manipulating and analyzing climate and forecast data files.
 
 ### Quick Start
 
